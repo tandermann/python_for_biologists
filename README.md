@@ -30,8 +30,8 @@ Once it's finished, open spyder by just typing `spyder` into your command line.
 
 # Tutorials
 
-[Tutorial 1 - Intro](http://htmlpreview.github.com/?https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/html_compiled_tutorials/tutorial_1.html)
+[Tutorial 1 - Python introduction](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_1.ipynb)
 
-[Tutorial 2 - Phylogenetics](http://htmlpreview.github.com/?https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/html_compiled_tutorials/tutorial_2.html)
+[Tutorial 2 - Reading data and plotting](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_2.ipynb)
 
-[Tutorial 3 - Data Science](http://htmlpreview.github.com/?https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/html_compiled_tutorials/tutorial_3.html)
+[Tutorial 3 - Functions and creating python programs (on the example of DNA data processing)](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_3.ipynb)
