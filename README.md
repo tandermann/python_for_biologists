@@ -34,7 +34,14 @@ Once it's finished, open spyder by just typing `spyder` into your command line.
 
 [Tutorial 2 - Reading data and plotting](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_2.ipynb)
 
-[Tutorial 3 - Functions and creating python programs (on the example of DNA data processing)](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_3.ipynb)
+[Tutorial 3 - Creating functions and python programs (on the example of DNA data processing)](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_3.ipynb)
+
+[Tutorial 4 - Numpy tutorial](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_4.ipynb)
+
+[Tutorial 5 - Pandas tutorial](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_5.ipynb)
+
+[Tutorial 6 - Statistical models](https://github.com/tobiashofmann88/python_for_biologists/blob/master/tutorials/tutorial_6.ipynb)
+
 
 
 In case the tutorial links don't work or don't properly compile, you can open the tutorials as [pre-compiled pdf versions here](https://github.com/tobiashofmann88/python_for_biologists/tree/master/tutorials/pdf_compiled) (not as pretty, but reliable to work).
